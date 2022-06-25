@@ -3,7 +3,7 @@ The Art of Code Review
 
 Rick: "Jiaqi, I just reviewed your [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) and you can work on it. Let me know if you have any questions."
 
-Me: "(No way... You gotta be kidding me. Again???)"
+Me: "(No way... Again??? You gotta be kidding me)"
 
 I sent [Rick](https://github.com/cdeszaq) a thank-you note via Slack and, then, jumped into that PR. No surprise,
 **30+** review comments:
@@ -15,15 +15,16 @@ I sent [Rick](https://github.com/cdeszaq) a thank-you note via Slack and, then, 
 * "By design, this object should not be passed to the next layer"
 * ...
 
-Rick was a Senior Software Engineer at Yahoo!. But I was a recent graduate who just learned there was something called
+Rick was a Senior Software Engineer at Yahoo!. But I was at that time a recent graduate who just learned there was something called
 "code review" in this world few months ago.
 
-This is probably the 20th code review on a single PR. It's not a bad PR to be honest with you. Regular feature
-change in about 500 lines of code. I think I did a good job on that.
+That was probably the 20th round of code review on a single PR (how many times did you ever get involoved in a PR where people rejected your PR 20+ times?). It's not a bad PR to be honest with you. Regular feature change in about 500 lines of code. I think I did a good job on that.
+
+...
 
 Chris: "How's everything going, Jiaqi? Work done already?"
 
-Me: "Well, almost, except Rick just shot me another 30 comments. It'll probably take 2 hours"
+Me: "Well... almost, except Rick just shot me another 30 comments. It'll probably take 2 hours"
 
 Chris: "😊 Don't worry" 
 
