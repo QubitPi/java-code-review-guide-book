@@ -32,7 +32,7 @@ comments on 20th review is probably a little bit of shock to him. I wish I could
 already. I'm just trying to make Rick happy. You know, he is a perfectionism..."
 
 Hoping to end this little miserable infinity in the next code review, I continued to working on Rick's comment until I
-noticed one of his comments. I was more of like a "little-design-change & code-style" comment which didn't seem to
+noticed one of his comments. It was more of like a "little-design-change & code-style" comment which didn't seem to
 change any code logic. But as I implement his proposed change, I spotted a bug.
 
 I sat back and thought about it for a while...
