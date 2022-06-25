@@ -15,8 +15,8 @@ I sent [Rick](https://github.com/cdeszaq) a thank-you note via Slack and, then, 
 * "By design, this object should not be passed to the next layer"
 * ...
 
-Rick was a Senior Software Engineer at Yahoo!. But I was a recent graduate who just learned there is something called
-"code review" in this word few months ago.
+Rick was a Senior Software Engineer at Yahoo!. But I was a recent graduate who just learned there was something called
+"code review" in this world few months ago.
 
 This is probably the 20th code review on a single PR. It's not a bad PR to be honest with you. Regular feature
 change in about 500 lines of code. I think I did a good job on that.
