@@ -45,7 +45,7 @@ towards code design can make your code 100 times better!
 
 All of a sudden, I changed my view on Rick's code review and I started to learn from his thoughts. When everyone was 
 reluctant to ask for his review, I grabbed every chance and ask him to do that for me everyday. At the end of the day,
-**I learned, from Rick, that Software Engineering is not abot "making it work" at all. It's about "making it right"**.
+**I learned, from Rick, that Software Engineering is not about "making it work" at all. It's about "making it right"**.
 To make it right, I have to make it perfect and it is only through this way I am approving to myself that I love what I
 am doing. When I love it, I will make it good!
 
