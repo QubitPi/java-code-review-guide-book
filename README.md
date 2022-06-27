@@ -50,5 +50,5 @@ reluctant to ask for his review, I grabbed every chance and ask him to do that f
 To make it right, I have to make it perfect and it is only through this way I am approving to myself that I love what I
 am doing. When I love it, I will make it good!
 
-It is Rick who told me how perfectionlism can shape your view and action in SWE and, also, the reason I put together
+It is Rick who told me how perfectionism can shape your view and action in SWE and, also, the reason I put together
 this [book on code review](./main.pdf). 
