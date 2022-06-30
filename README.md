@@ -21,12 +21,13 @@ approaches are applied in implementing software, I think you will begin to learn
 area. 
 
 But before I tell you about those practical and useful industry standards on many aspects of Software Engineering, I
-fell it is important that I tell you about the origins of my somewhat over-stricted view and therefore of this book. 
+feel it is important that I tell you about the origins of my somewhat over-stricted view and therefore of this book. 
 Luckily, my introduction to this arena started with one of my Yahoo! colleague, Rick, who profoundly changed my outlook
 on Software Development and largely determined my future philosophy on Software Design.
 
-Rick was a Senior Software Engineer at Yahoo!. During my very early career period, however, I was at that time a recent 
-graduate who just learned there was something called "code review" in this world few months ago.
+[Rick](https://github.com/cdeszaq) was a Senior Software Engineer at Yahoo!. During my very early career period,
+however, I was at that time a recent graduate who just learned there was something called "code review" in this world
+few months ago.
 
 In addition to the fascinating persona Rick presented about himself, what struck me most about him was his attitude to
 each details of the Software design and implementation. Many times, when I raised a question in front of him in office,
@@ -42,8 +43,7 @@ started to worry him:
 
 Me: "(No way, Rick! Again??? You gotta be kidding me o_O)"
 
-I sent [Rick](https://github.com/cdeszaq) a thank-you note via Slack and, then, jumped into that PR. No surprise,
-**30+** code review comments:
+I sent Rick a thank-you note via Slack and, then, jumped into that PR. No surprise, **30+** code review comments:
 
 * "Missing a period at the end of sentence"
 * "This line break is not necessary"
@@ -86,8 +86,8 @@ teach me with those "endless" code review comments, but this did not diminish my
 about "making it work". It's about "making it right"**. To make it right, I have to make it perfect and it is only
 through this way I am approving to myself that I love what I am doing. When I love it, I will make it good!
 
-My new understanding - that Software Engineering is a branch of science that quires rigorous thinking to justify its 
-appropriateness - lured me into the study of code review. 
+My new understanding - that Software Engineering is a branch of science that requires rigorous thinking to justify its 
+applicability - lured me into the study of code review. 
 
 It is Rick who told me how perfectionism can shape your view and action in SWE and, also, the reason I put together
 this [book on code review](./main.pdf). 
