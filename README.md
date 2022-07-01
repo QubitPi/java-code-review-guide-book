@@ -1,8 +1,9 @@
 Introduction - How Code Review Let me to the Research on Programming Design
 ===========================================================================
 
-I have been told by one of my friends that I have an unusual way of designing and writing code. Over the last 7 years or
-so of my tech career, it's enabled me to have a lot of fun studying and applying rigorous principles of software design. 
+I have been told by one of my Yahoo! colleagues that I have an unusual way of designing and writing code. Over the last
+7 years or so of my tech career, it's enabled me to have a lot of fun studying and applying rigorous principles of
+software design. 
 
 Do you know why classes should be small, while most people are frustrated by giant class design piled up with hundreds
 of lines of code?
