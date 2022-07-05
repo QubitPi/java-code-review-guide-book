@@ -42,7 +42,7 @@ started to worry him:
 
 "Jiaqi, I just reviewed your [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). Looks much better. I left some new comments for you to look at. Let me know if you have any questions."
 
-Me: "(No way, Rick! Again??? You gotta be kidding me o_O)"
+Me: "(No way, Rick ![35](https://user-images.githubusercontent.com/16126939/177282165-99a4ff14-7ca1-4a43-a806-4a7b6b600fa4.gif) Again??? You gotta be kidding me o_O)"
 
 I sent Rick a thank-you note via Slack and, then, jumped into that PR. No surprise, **30+** code review comments:
 
